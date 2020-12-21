@@ -1,1 +1,2 @@
-# computer-graphics
+# COMPUTER GRAPHICS
+## Use QT C++
